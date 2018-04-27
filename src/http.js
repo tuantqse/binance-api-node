@@ -3,7 +3,7 @@ import zip from 'lodash.zipobject'
 
 import 'isomorphic-fetch'
 
-const BASE = 'https://api.binance.com'
+const BASE = ''
 
 /**
  * Build query string for uri encoded url based on json object
